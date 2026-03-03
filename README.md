@@ -4,7 +4,7 @@ This repository contains the computational verification code accompanying the pa
 
 **"Hierarchical threshold structure in Max-Cut with geometric edge weights"**  
 by Nevena Marić  
-*Annales Mathematicae et Informaticae* (submitted 2026)
+
 
 ## Problem Description
 
